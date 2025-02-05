@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I enjoy playing chess as a hobby.
 
 ## Skills & Technologies
-- 💻 Languages: **C++, Python, HTML, CSS and SQL**.
+- 💻 Languages: **C++, Java, Python, JavaScript and SQL**.
 - 🛠️ Tools: **VS Code**, **CLion**, **Pycharm**, **MySQL**, Git.
 
 
