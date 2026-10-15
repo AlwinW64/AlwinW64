@@ -12,9 +12,9 @@ I'm passionate about **data science, machine learning, and AI**, with a particul
 
 ## 🧪 Projects
 
-- 📊 [**DataPilot**](https://github.com/AlwinW64) — AI-powered data analytics
-- 🎬 [**CineAnalytics**](https://github.com/AlwinW64) — Movie data analysis and prediction
-- 📄 [**RAG-Based Document Q&A**](https://github.com/AlwinW64) — Semantic search and retrieval-augmented generation
+- 📊 [**DataPilot**](https://github.com/AlwinW64/DataPilot) — AI-powered data analytics
+- 🎬 [**CineAnalytics**](https://github.com/AlwinW64/CineAnalytics) — Movie data analysis and prediction
+- 📄 [**RAG-Based Document Q&A**](https://github.com/AlwinW64/Document-Question-Answering-System-using-RAG) — Semantic search and retrieval-augmented generation
 - 💿 [**Advanced Disk Scheduling Simulator**](https://github.com/AlwinW64) — Operating systems
 
 ## 🛠️ Tech Stack
